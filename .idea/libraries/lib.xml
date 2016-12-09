@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../ckha/Downloads/jwat-tools-0.6.2/jwat-tools-0.6.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jwat-tools-0.6.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jwat-warc-1.0.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jwat-archive-1.0.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jwat-arc-1.0.4-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../ckha/Downloads/jwat-tools-0.6.2/jwat-tools-0.6.2/lib" recursive="false" />
+  </library>
+</component>
